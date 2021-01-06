@@ -9,12 +9,12 @@ Office hours: Tuesdays 17:00-18:00 or by appointment
 
 **Tutorial** Tuesdays 20:00-21:00 on zoom
 
-- [Course Overview](#courseoverview)
-- [Discussion Board](#discussionboard)
-- [Required Textbook](#requiredtextbook)
-- [Lecture Schedule](#lectureschedule)
-- [Marking Scheme](#markingscheme)
-- [Lateness Policy](#latenesspolicy)
+- [Course Overview](#course-overview)
+- [Discussion Board](#discussion-board)
+- [Required Textbook](#required-textbook)
+- [Lecture Schedule](#lecture-schedule)
+- [Marking Scheme](#marking-scheme)
+- [Lateness Policy](#lateness-policy)
 
 ## Course Overview
 
