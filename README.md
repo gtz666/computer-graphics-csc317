@@ -1,34 +1,20 @@
-# Computer Graphics CSC418/CSC2504 _Fall 2018_
+# Computer Graphics CSC317 _Winter 2021_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
-- [Sections](#sections)
+**LEC5101 6101 7001 7501 9101** Tuesdays 18:00-20:00 on zoom
+Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
+karan@dgp.toronto.edu    
+Office hours: Tuesdays 17:00-18:00 or by appointment
+
+**Tutorial** Tuesdays 20:00-21:00 on zoom
+
 - [Course Overview](#courseoverview)
+- [Discussion Board](#discussionboard)
 - [Required Textbook](#requiredtextbook)
 - [Lecture Schedule](#lectureschedule)
-- [Grading](#grading)
+- [Marking Scheme](#markingscheme)
 - [Lateness Policy](#latenesspolicy)
-
-## Sections
-
-**LEC0101** Wednesdays 15:00-17:00 in GB 244  
-Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
-jacobson@cs.toronto.edu  
-+1 416-946-8630  
-Office hours Wednesdays 17:00-19:00 in BA 5266
-
-**LEC0201** Tuesdays 15:00-17:00 in SF 3202  
-Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
-karan@dgp.toronto.edu  
-+1 416-978-7201  
-Office hours Tuesdays 14:00-15:00 in BA 5258
-
-**Tutorial** for both sections will be held _together_ on Mondays 15:00-16:00 in
-GB 244.
-
-## Links
-
-- [Bulletin Board](https://bb-2018-09.teach.cs.toronto.edu/c/csc418)
 
 ## Course Overview
 
@@ -42,7 +28,7 @@ hardware, ray tracing, graphics toolkits, animation systems.
 
 **Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
 Methods ([course
-codes](http://calendar.artsci.utoronto.ca/crs_csc.htm#CSC418H1)).
+codes](https://fas.calendar.utoronto.ca/course/csc317h1)).
 
 The student is expected to read background material on the hardware and local
 software, and should be comfortable with elementary linear algebra, geometry,
@@ -50,6 +36,19 @@ and vector calculus. It is also assumed that the student is comfortable
 programming in basic C++.
 
 **_(Strongly)_ Recommended preparation:** Multivariable Calculus
+
+## Discussion Board
+
+Please post your questions about the lectures, readings, and assignment due dates on the
+[Quercus discussion
+board](https://q.utoronto.ca/courses/196707/discussion_topics). We will monitor
+this board and attempt to answer questions as they appear. Near deadlines
+responses may take longer, so please start assignments early. If your question
+is not being answered, you may ask it again at the tutorial or office hours.
+
+For questions specific to each assignment, please post your questions as a GitHub issue
+on the assignment repository.
+
 
 ## Required Textbook
 
@@ -63,6 +62,7 @@ et al. 2015.
 
 Digital e-book are available at [CRC
 Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition/Marschner-Shirley/p/book/9781482229394).
+
 
 
 ## Lecture Schedule
@@ -89,15 +89,21 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
 
-## Grading
+## Marking Scheme
 
 | % | Item |
 | ----: | :-------------- |
-| 70% | Assignments
-| 20% | Monday, October 29, in-tutorial exam
-| 10% | Monday, November 26, in-tutorial exam
-
-There will be roughly seven programming assignments in total (~10% each).
+| 1% | Pre-test & survey |
+| 8% | Assignment 1 | 
+| 8% | Assignment 2 | 
+| 8% | Assignment 3 | 
+| 8% | Assignment 4 | 
+| 15% | Take-home test 1 |
+| 8% | Assignment 5 | 
+| 8% | Assignment 6 | 
+| 8% | Assignment 7 | 
+| 8% | Assignment 8 | 
+| 20% | Take-home test 2 |
 
 ## Lateness Policy
 
@@ -132,13 +138,13 @@ For purposes of this class, academic dishonesty is defined as:
 
 - Please do not send email directly to the TAs. They will not be replied.
 - Main forum for answering questions about class or about the assignments is the
-  class bulletin board. The TAs will be monitoring the board.
+  discussion board. The TAs will be monitoring the board.
 - Appropriate use of the board: clarifications on assignment, on lecture
   material, general concerns about the course, or other remarks that are
   appropriate for all students to see/participate in.
 - Do NOT broadcast pieces of your code or answers to written assignments to the
-  bulletin board. Specific or general implementation questions whose answer
-  would benefit all students in the class are appropriate. However: the bulletin
+  board. Specific or general implementation questions whose answer
+  would benefit all students in the class are appropriate. However: the
   board is NO replacement for the tutorial hour. That should be the main forum
   for asking/answering questions of this sort.
 - Questions of the form "I cannot find the problem with my code; here it is, can
