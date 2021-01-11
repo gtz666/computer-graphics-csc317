@@ -64,29 +64,43 @@ et al. 2015.
 Digital e-book are available at [CRC
 Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition/Marschner-Shirley/p/book/9781482229394).
 
+## Reading Schedule
+
+| Week | Topic / Event |
+| ---- | :------------ |
+| 1    | Raster Images: Chapter 3 [intro slides] (https://github.com/karansher/lectures/lecture0.pdf) [raster slides] (https://github.com/karansher/lectures/lecture1.pdf) [recording]
+| 2   | Ray Casting: Sections 4.1-4.4 [raycast slides] (https://github.com/karansher/lectures/lecture2.pdf) [recording]
+| 3   | Ray Tracing: Sections 4.5-4.9 [raytrace slides] (https://github.com/karansher/lectures/lecture3.pdf) [recording]
+| 4   | Bounding Volume Hierarchy: Section 12.3
+| 5  | Meshes: Section 12.1 & skim Chapter 11
+| 8  | Shading: Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17
+| 9  | Kinematics: Sections 15.1-15.5 & 16.1-16.4
+| 10  | Mass Spring Systems: Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf)
+| 12| Advanced Topics
+
 
 
 ## Lecture Schedule
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 21/09](https://github.com/alecjacobson/computer-graphics-raster-images)
-| 2    | [Assignment 2 (Ray Casting) due 28/09](https://github.com/alecjacobson/computer-graphics-ray-casting)
-| 3    | [Assignment 3 (Ray Tracing) due 05/10](https://github.com/alecjacobson/computer-graphics-ray-tracing)
-| 4    | [Assignment 4 (Boundary Volume Hierarchy) due 12/10](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
-| 5    | [Assignment 5 (Meshes) due 19/10](https://github.com/alecjacobson/computer-graphics-meshes)
-| 6    | _Work on Assignment 5_ |
+| 1 (12/01)  | Introduction, Raster Images [Assignment 1 (Raster Images) due 20/01](https://github.com/alecjacobson/computer-graphics-raster-images)
+| 2 (19/01)    | Ray Casting [Assignment 2 (Ray Casting) due 27/01](https://github.com/alecjacobson/computer-graphics-ray-casting)
+| 3 (26/01)   | Ray Tracing [Assignment 3 (Ray Tracing) due 03/02](https://github.com/alecjacobson/computer-graphics-ray-tracing)
+| 4 (02/02)   | Spatial Structures [Assignment 4 (Boundary Volume Hierarchy) due 10/02](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
+| 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 17/02](https://github.com/alecjacobson/computer-graphics-meshes)
+| 6  (16/02)  | _Work on Assignment 5_ |
 | 7    | _Study for exam next week_.
-| **Monday, October 29** | In-tutorial Exam (20% of grade)
-| 8    | [Assignment 6 (GLSL) due 09/11]()
-| **Monday, November 5** | Drop date (consider if grade so far is <50%)
-| 9    | [Assignment 7 (Kinematics) due 16/11]()
-| 10   | [Final Image/Animation/Game Competition due 30/11]()
-| 11   | _Study for exam next week_.
-| **Monday, November 26** | In-tutorial Exam (10% of grade)
-| 12   | 🏆 Showcase 🏆 
+| **23/02* | In-tutorial Exam (20% of grade)
+| 8 (02/03)   | [Assignment 6 (GLSL) due 10/03]()
+| **early March** | Drop date (consider if grade so far is <50%)
+| 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03]()
+| 10 (16/03)  | Mass-Springs [Final Image/Animation/Game Competition due 31/03]()
+| 11 (23/03)  | _Study for exam next week_.
+| **30/03** | In-tutorial Exam (10% of grade)
+| 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
 
-[Academic Honesty (required reading)](#academichonesty)
+[Academic Honesty (required reading)](#academic-honesty)
 
 ![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
 
