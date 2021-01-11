@@ -69,9 +69,9 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Raster Images: Chapter 3 [intro slides](https://github.com/karansher/317-lectures/lecture0.pdf) ,[raster slides](https://github.com/karansher/317-lectures/lecture1.pdf) , [recording]
-| 2   | Ray Casting: Sections 4.1-4.4 [raycast slides](https://github.com/karansher/317-lectures/lecture2.pdf) , [recording]
-| 3   | Ray Tracing: Sections 4.5-4.9 [raytrace slides](https://github.com/karansher/317-lectures/lecture3.pdf) ,  [recording]
+| 1    | Raster Images: Chapter 3 [intro slides](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf) ,[raster slides](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) , [recording]
+| 2   | Ray Casting: Sections 4.1-4.4 [raycast slides](https://github.com/karansher/317-lectures/blob/main/lecture2.pdf) , [recording]
+| 3   | Ray Tracing: Sections 4.5-4.9 [raytrace slides](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) ,  [recording]
 | 4   | Bounding Volume Hierarchy: Section 12.3
 | 5  | Meshes: Section 12.1 & skim Chapter 11
 | 8  | Shading: Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17
