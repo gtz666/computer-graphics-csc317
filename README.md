@@ -90,15 +90,15 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 3 (26/01)   | Ray Tracing [Assignment 3 (Ray Tracing) due 03/02](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4 (02/02)   | Spatial Structures [Assignment 4 (Boundary Volume Hierarchy) due 10/02](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
 | 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 17/02](https://github.com/alecjacobson/computer-graphics-meshes)
-| 6  (16/02)  | _Work on Assignment 5_ |
-| 7    | _Study for exam next week_.
-| **23/02* | In-tutorial Exam (20% of grade)
+| 6 (16/02)   | _Study for exam next week_.
+| 7  (23/02)  | _Work on Assignment 5_ |
+| **23/02* | Take-home test (15% of grade)
 | 8 (02/03)   | [Assignment 6 (GLSL) due 10/03]()
 | **early March** | Drop date (consider if grade so far is <50%)
 | 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03]()
 | 10 (16/03)  | Mass-Springs [Final Image/Animation/Game Competition due 31/03]()
 | 11 (23/03)  | _Study for exam next week_.
-| **30/03** | In-tutorial Exam (10% of grade)
+| **30/03** | Take-home test (15% of grade)
 | 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
 
 [Academic Honesty (required reading)](#academic-honesty)
