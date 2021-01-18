@@ -86,7 +86,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1 (12/01)  | Introduction, Raster Images [Assignment 1 (Raster Images) due 20/01](https://github.com/alecjacobson/computer-graphics-raster-images)
-| 2 (19/01)    | Ray Casting [Assignment 2 (Ray Casting) due 27/01](https://github.com/alecjacobson/computer-graphics-ray-casting)
+| 2 (19/01)    | Ray Casting [Assignment 2 (Ray Casting) due 27/01](https://github.com/Asmathunofficial/computer-graphics-ray-casting)
 | 3 (26/01)   | Ray Tracing [Assignment 3 (Ray Tracing) due 03/02](https://github.com/abhimadan/computer-graphics-ray-tracing)
 | 4 (02/02)   | Spatial Structures [Assignment 4 (Boundary Volume Hierarchy) due 10/02](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
 | 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 17/02](https://github.com/alecjacobson/computer-graphics-meshes)
