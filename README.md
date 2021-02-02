@@ -98,7 +98,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03]()
 | 10 (16/03)  | Mass-Springs [Final Image/Animation/Game Competition due 31/03]()
 | 11 (23/03)  | _Study for exam next week_.
-| **30/03** | Take-home test (15% of grade)
+| **30/03** | Take-home test (20% of grade)
 | 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
 
 [Academic Honesty (required reading)](#academic-honesty)
