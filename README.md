@@ -89,10 +89,10 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 2 (19/01)    | Ray Casting [Assignment 2 (Ray Casting) due 27/01](https://github.com/Asmathunofficial/computer-graphics-ray-casting)
 | 3 (26/01)   | Ray Tracing [Assignment 3 (Ray Tracing) due 03/02](https://github.com/abhimadan/computer-graphics-ray-tracing)
 | 4 (02/02)   | Spatial Structures [Assignment 4 (Boundary Volume Hierarchy) due 10/02](https://github.com/idaho777/computer-graphics-bounding-volume-hierarchy)
-| 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 17/02](https://github.com/alecjacobson/computer-graphics-meshes)
-| 6 (16/02)   | _Study for exam next week_.
-| 7  (23/02)  | _Work on Assignment 5_ |
-| **23/02* | Take-home test (15% of grade)
+| 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 24/02](https://github.com/alecjacobson/computer-graphics-meshes)
+| 6 (16/02)   | _Work on Assignment 5_
+| 7  (23/02)  | _Study for exam next week_. 
+| **01/03* | Take-home test 24 hours to work on it (15% of grade)
 | 8 (02/03)   | [Assignment 6 (GLSL) due 10/03]()
 | **early March** | Drop date (consider if grade so far is <50%)
 | 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03]()
