@@ -93,7 +93,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 6 (16/02)   | _Work on Assignment 5_
 | 7  (23/02)  | TRansformations and Shading. _Study for exam next week_. 
 | **01/03* | Take-home test 24 hours to work on it (15% of grade)
-| 8 (02/03)   | Animation [Assignment 6 (GLSL) due 10/03](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+| 8 (02/03)   | Animation [Assignment 6 (GLSL) due 10/03](https://github.com/abhimadan/computer-graphics-shader-pipeline)
 | **early March** | Drop date (consider if grade so far is <50%)
 | 9  (09/03)  | Mass-springs [Assignment 7 (Kinematics) due 17/03]()
 | 10 (16/03)  |  [Final Image/Animation/Game Competition due 31/03]()
