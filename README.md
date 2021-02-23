@@ -91,12 +91,12 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 4 (02/02)   | Spatial Structures [Assignment 4 (Boundary Volume Hierarchy) due 10/02](https://github.com/idaho777/computer-graphics-bounding-volume-hierarchy)
 | 5  (09/02)  | Meshes [Assignment 5 (Meshes) due 24/02](https://github.com/alecjacobson/computer-graphics-meshes)
 | 6 (16/02)   | _Work on Assignment 5_
-| 7  (23/02)  | _Study for exam next week_. 
+| 7  (23/02)  | TRansformations and Shading. _Study for exam next week_. 
 | **01/03* | Take-home test 24 hours to work on it (15% of grade)
-| 8 (02/03)   | [Assignment 6 (GLSL) due 10/03]()
+| 8 (02/03)   | Animation [Assignment 6 (GLSL) due 10/03](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
 | **early March** | Drop date (consider if grade so far is <50%)
-| 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03]()
-| 10 (16/03)  | Mass-Springs [Final Image/Animation/Game Competition due 31/03]()
+| 9  (09/03)  | Mass-springs [Assignment 7 (Kinematics) due 17/03]()
+| 10 (16/03)  |  [Final Image/Animation/Game Competition due 31/03]()
 | 11 (23/03)  | _Study for exam next week_.
 | **30/03** | Take-home test (20% of grade)
 | 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
