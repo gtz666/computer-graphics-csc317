@@ -75,7 +75,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 4   | Bounding Volume Hierarchy: Section 12.3 [bounding volume slides](https://github.com/karansher/317-lectures/blob/main/lecture4.pdf) ,
 | 5  | Meshes: Section 12.1 & skim Chapter 11 [mesh slides](https://github.com/karansher/317-lectures/blob/main/lecture5.pdf)
 | 8  | Shading: Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17 [transforms and shading slides](https://github.com/karansher/317-lectures/blob/main/lecture6.pdf)
-| 9  | Kinematics: Sections 15.1-15.5 & 16.1-16.4
+| 9  | Kinematics: Sections 15.1-15.5 & 16.1-16.4 (https://github.com/karansher/317-lectures/blob/main/lecture7.pdf)
 | 10  | Mass Spring Systems: Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf)
 | 12| Advanced Topics
 
