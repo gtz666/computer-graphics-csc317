@@ -95,10 +95,10 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | **01/03* | Take-home test 24 hours to work on it (15% of grade)
 | 8 (02/03)   | Shading [Assignment 6 (GLSL) due 10/03](https://github.com/abhimadan/computer-graphics-shader-pipeline)
 | **early March** | Drop date (consider if grade so far is <50%)
-| 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 17/03](https://github.com/idaho777/computer-graphics-kinematics)
-| 10 (16/03)  | Mass-Springs [Assignment 8 (Mass-springs) due 24/03](https://github.com/abhimadan/computer-graphics-mass-spring-systems)
-| 11 (23/03)  | Advanced Topics AR/VR [Final Image/Animation/Game Competition due 31/03]
-| **30/03** | Take-home test (20% of grade)
+| 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 19/03](https://github.com/idaho777/computer-graphics-kinematics)
+| 10 (16/03)  | Mass-Springs [Assignment 8 (Mass-springs) due 26/03](https://github.com/abhimadan/computer-graphics-mass-spring-systems)
+| 11 (23/03)  | Advanced Topics AR/VR [Final Image/Animation/Game Competition due 3/04]
+| **3-5/03** | Take-home test (20% of grade)
 | 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
 
 [Academic Honesty (required reading)](#academic-honesty)
