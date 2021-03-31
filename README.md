@@ -77,7 +77,9 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 8  | Shading: Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17 [transforms and shading slides](https://github.com/karansher/317-lectures/blob/main/lecture6.pdf)
 | 9  | Kinematics: Sections 15.1-15.5 & 16.1-16.4 (https://github.com/karansher/317-lectures/blob/main/lecture7.pdf)
 | 10  | Mass Spring Systems: Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf)(https://github.com/karansher/317-lectures/blob/main/lecture8.pdf)
-| 11| Advanced Topics
+| 11| Advanced Topics(https://github.com/karansher/317-lectures/blob/main/creative-vis-comm-csc317.pdf)
+| 12| Review(https://github.com/karansher/317-lectures/blob/main/lecture-review.pdf)
+
 
 
 
@@ -97,7 +99,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | **early March** | Drop date (consider if grade so far is <50%)
 | 9  (09/03)  | Animation [Assignment 7 (Kinematics) due 19/03](https://github.com/idaho777/computer-graphics-kinematics)
 | 10 (16/03)  | Mass-Springs [Assignment 8 (Mass-springs) due 26/03](https://github.com/abhimadan/computer-graphics-mass-spring-systems)
-| 11 (23/03)  | Advanced Topics AR/VR [Final Image/Animation/Game Competition due 3/04]
+| 11 (23/03)  | Advanced Topics[Final Image/Animation/Game Competition due 3/04]
 | **3-5/03** | Take-home test (20% of grade)
 | 12 (06/04)  | Advanced Topics 🏆 Showcase 🏆 
 
