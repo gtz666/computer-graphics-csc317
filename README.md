@@ -4,7 +4,7 @@
 
 **LEC5101 6101 7001 7501 9101** Tuesdays 18:00-20:00 on zoom
 
-Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
+Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)
 karan@dgp.toronto.edu    
 Office hours: Tuesdays 17:00-18:00 or by appointment
 
