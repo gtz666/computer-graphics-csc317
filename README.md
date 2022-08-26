@@ -68,8 +68,7 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 | 9% | Assignment 1 | 
 | 9% | Assignment 2 | 
 | 9% | Assignment 3 | 
-| 9% | Assignment 4 | 
-						  
+| 9% | Assignment 4 | 				  
 | 9% | Assignment 5 | 
 | 9% | Assignment 6 | 
 | 9% | Assignment 7 | 
@@ -143,22 +142,6 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 [Academic Honesty (required reading)](#academic-honesty)
 
 ![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
-
-## Marking Scheme
-
-| % | Item |
-| ----: | :-------------- |
-| 1% | Pre-test & survey |
-| 8% | Assignment 1 | 
-| 8% | Assignment 2 | 
-| 8% | Assignment 3 | 
-| 8% | Assignment 4 | 
-| 15% | Take-home test 1 |
-| 8% | Assignment 5 | 
-| 8% | Assignment 6 | 
-| 8% | Assignment 7 | 
-| 8% | Assignment 8 | 
-| 20% | Take-home test 2 |
 
 ## Assignment Policies
 
