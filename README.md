@@ -7,23 +7,24 @@ Tutorial: Wednesday 11:00-13:00, [UC 140](https://map.utoronto.ca/?id=1809#!m/49
  
 **CSC317H1F LEC 0201 2101** Monday 15:00-17:00, [AH 400](https://map.utoronto.ca/?id=1809#!m/494578)
 Tutorial: Wednesday 16:00-17:00, [AH 400](https://map.utoronto.ca/?id=1809#!m/494578)
+
 Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)
-karan@dgp.toronto.edu    
-Office hours: Mondays 13:00-15:00 or by appointment
+karan@dgp.toronto.edu  
+  
+Office hours: BA 5258, Mondays 13:00-15:00 or by appointment
 															
-- [Course Overview](#courseoverview)
+- [Course Overview](#course-overview)
 - [Required Textbook](#required-textbook)
-- [Lecture Schedule](#lectureschedule)
-- [Marking Scheme](#markingscheme)
-- [Assignment Policies](#assignmentpolicies)
+- [Lecture Schedule](#lecture-schedule)
+- [Marking Scheme](#marking-scheme)
+- [Assignment Policies](#assignment-policies)
 
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
 It covers the basic methods needed to model and render 3D objects, including
 much of the following: graphics displays, basic optics, affine and
-perspective transformations, windows and viewports, visibility,
-																		
+perspective transformations, windows and viewports, visibility,											
 illumination and reflectance models, parametric representations, curves and surfaces, texture mapping, graphics
 hardware, ray tracing, graphics toolkits, animation systems.
 
