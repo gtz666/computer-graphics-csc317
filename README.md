@@ -74,15 +74,19 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 | 9% | Assignment 7 | 
 | 9% | Assignment 8 | 
 | 12% | 4 Quercus quizzes |
-| 18% | Take home term test |
+| 16% | Take home term test |
 
 ## Lecture Schedule
 
 _Assignment dates still based on Fall offering. Will be updated soon._
 
 | Week | Topic / Event | Slides | Videos
-| ---- | :------------ | -------| ------
-| 1 (12/09)   | Introduction, Raster Images(Chapter 3), [Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp) | [intro](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf) ,[raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
+| ---- | :------------ | ------ | ------
+| 1 (12/09)   | Introduction, Raster Images(Chapter 3)
+
+ [Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp) | [intro](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf)
+ 
+ [raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
 | 2 (19/09)   | Ray Casting(Sections 4.1-4.4)[Assignment 2 (Ray Casting) due 26/09](https://github.com/karansher/computer-graphics-ray-casting) | [raycast](https://github.com/karansher/317-lectures/blob/main/lecture2.pdf) | 
 | 3 (26/09) | Ray Tracing(Sections 4.5-4.9) Quiz1 | [Assignment 3 (Ray Tracing) due 03/10](https://github.com/karansher/computer-graphics-ray-tracing) | [raytrace slides](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) | 
 | 4 (03/10) | Bounding Volume Hierarchy(Section 12.3) | [Assignment 4 (Bounding Volume Hierarchy) due 10/10](https://github.com/karansher/computer-graphics-bounding-volume-hierarchy) | [bounding volume](https://github.com/karansher/317-lectures/blob/main/lecture4.pdf)  | 
