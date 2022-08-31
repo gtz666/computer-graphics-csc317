@@ -82,12 +82,12 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 
 | Week | Topic / Event | Slides | Videos
 | --- | :-------------- | ---- | ----
-| 1 (12/09)   | <ul><li>Introduction, Raster Images(Chapter 3)</li><li>[Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)</li></ul> | [intro](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf)<br>[raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
-| 2 (19/09)   | Ray Casting(Sections 4.1-4.4)[Assignment 2 (Ray Casting) due 26/09](https://github.com/karansher/computer-graphics-ray-casting) | [raycast](https://github.com/karansher/317-lectures/blob/main/lecture2.pdf) | 
-| 3 (26/09) | Ray Tracing(Sections 4.5-4.9) Quiz1 | [Assignment 3 (Ray Tracing) due 03/10](https://github.com/karansher/computer-graphics-ray-tracing) | [raytrace slides](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) | 
-| 4 (03/10) | Bounding Volume Hierarchy(Section 12.3) | [Assignment 4 (Bounding Volume Hierarchy) due 10/10](https://github.com/karansher/computer-graphics-bounding-volume-hierarchy) | [bounding volume](https://github.com/karansher/317-lectures/blob/main/lecture4.pdf)  | 
-| 5  (17/10)  | Meshes(Section 12.1 & skim Chapter 11) | [Assignment 5 (Meshes) due 16/02](https://github.com/karansher/computer-graphics-meshes) | | 
-| 6  (24/10)  | Shading(Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17)  Quiz2 | Object-based Rendering Transformations and Projections [Assignment 6 (Shader Pipeline) assigned due 12:00 09/03](https://github.com/karansher/computer-graphics-shader-pipeline) | |
+| 1 (12/09)   | <ul><li>Introduction</li><li>Raster Images(Chapter 3)</li><li>[Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)</li></ul> | [introduction](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf)<br>[raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
+| 2 (19/09)   | <ul><li>Ray Casting(Sections 4.1-4.4)</li><li>[Assignment 2 (Ray Casting) due 26/09](https://github.com/karansher/computer-graphics-ray-casting)</li></ul> | [raycast](https://github.com/karansher/317-lectures/blob/main/lecture2.pdf) | 
+| 3 (26/09) | <ul><li>Ray Tracing(Sections 4.5-4.9)</li><li>Quiz1</li><li>[Assignment 3 (Ray Tracing) due 03/10](https://github.com/karansher/computer-graphics-ray-tracing)</li></ul> | [raytrace](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) | 
+| 4 (03/10) | Bounding Volume Hierarchy(Section 12.3) [Assignment 4 (Bounding Volume Hierarchy) due 10/10](https://github.com/karansher/computer-graphics-bounding-volume-hierarchy) | [bounding-volume](https://github.com/karansher/317-lectures/blob/main/lecture4.pdf)  | 
+| 5  (17/10)  | Meshes(Section 12.1 & skim Chapter 11) [Assignment 5 (Meshes) due 16/02](https://github.com/karansher/computer-graphics-meshes) | | 
+| 6  (24/10)  | Shading(Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17)  Quiz2 Object-based Rendering Transformations and Projections [Assignment 6 (Shader Pipeline) assigned due 12:00 09/03](https://github.com/karansher/computer-graphics-shader-pipeline)  ||
 | 7  (31/10)  | Real-time graphics pipeline, review for mid-term
 | **Thursday, March 3** | 24-hour take-home exam due 12:00 04/03 (11% of grade) _tentative date_
 | 8  (14/11)  | TBD
