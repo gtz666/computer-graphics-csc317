@@ -78,8 +78,6 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 
 ## Lecture Schedule
 
-_Assignment dates still based on Fall offering. Will be updated soon._
-
 | Week | Topic / Event | Slides | Videos
 | --- | :-------------- | ---- | ----
 | 1 (12/09)   | <ul><li>Introduction</li><li>Raster Images(Chapter 3)</li><li>[Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)</li></ul> | [introduction](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf)<br>[raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
