@@ -89,10 +89,9 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 | 7  (31/10)  | TBD | |
 | 8  (14/11)  | TBD | |
 | 9  (21/11)  | <ul><li>Kinematics(Sections 15.1-15.5 & 16.1-16.4)</li><li> Quiz3 </li><li> [Assignment 7 (Kinematics) due 28/11](https://github.com/karansher/computer-graphics-kinematics) </li></ul>  | [kinematics](https://github.com/karansher/317-lectures/blob/main/lecture7.pdf) |
-| 10 (28/11)  | <ul><li>Mass Spring Systems(Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf))</li><li> Quiz4 </li><li> [Assignment 8 (Mass-Spring Systems) due 31/3](https://github.com/karansher/computer-graphics-mass-spring-systems)</li></ul> | [mass-spring](https://github.com/karansher/317-lectures/blob/main/lecture8.pdf) |
-| 11 (5/12)  | The future of Computer Graphics
-| 12 (8/12)  | _Study for exam next week_.
-| Final | Final exam (20% of grade)
+| 10 (28/11)  | <ul><li>Mass Spring Systems(Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf))</li><li> [Assignment 8 (Mass-Spring Systems) due 31/3](https://github.com/karansher/computer-graphics-mass-spring-systems)</li></ul> | [mass-spring](https://github.com/karansher/317-lectures/blob/main/lecture8.pdf) |
+| 11 (5/12)  | <ul><li>Advanced Topics  [Creative Visual Communication](https://github.com/karansher/317-lectures/blob/main/creative-vis-comm-csc317.pdf)</li><li> Quiz4 </li></ul>
+| 12 (8/12)  | <ul><li>Summary</li><li>🏆 Showcase 🏆</li><li> Take home test</li></ul>
 
 
 
