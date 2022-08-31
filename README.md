@@ -88,8 +88,8 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 | 6  (24/10)  | <ul><li>Transformation, Projection and Shading(Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17) </li><li>[Assignment 6 (Shader Pipeline) assigned due 09/03](https://github.com/karansher/computer-graphics-shader-pipeline) </li></ul> |[transforms and shading slides](https://github.com/karansher/317-lectures/blob/main/lecture6.pdf) |
 | 7  (31/10)  | TBD | |
 | 8  (14/11)  | TBD | |
-| 9  (21/11)  | <ul><li>Kinematics(Sections 15.1-15.5 & 16.1-16.4)</li><li> Quiz3 </li><li> Assignment 7 (Kinematics) due 28/11](https://github.com/karansher/computer-graphics-kinematics) </li></ul>  | [kinematics](https://github.com/karansher/317-lectures/blob/main/lecture7.pdf) |
-| 10 (28/11)  | <ul><li>Mass Spring Systems </li><li> Quiz4 </li><li> [Assignment 8 (Mass-Spring Systems) due 31/3](https://github.com/karansher/computer-graphics-mass-spring-systems)</li></ul> | [mass-spring](https://github.com/karansher/317-lectures/blob/main/lecture8.pdf) |
+| 9  (21/11)  | <ul><li>Kinematics(Sections 15.1-15.5 & 16.1-16.4)</li><li> Quiz3 </li><li> [Assignment 7 (Kinematics) due 28/11](https://github.com/karansher/computer-graphics-kinematics) </li></ul>  | [kinematics](https://github.com/karansher/317-lectures/blob/main/lecture7.pdf) |
+| 10 (28/11)  | <ul><li>Mass Spring Systems(Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf))</li><li> Quiz4 </li><li> [Assignment 8 (Mass-Spring Systems) due 31/3](https://github.com/karansher/computer-graphics-mass-spring-systems)</li></ul> | [mass-spring](https://github.com/karansher/317-lectures/blob/main/lecture8.pdf) |
 | 11 (5/12)  | The future of Computer Graphics
 | 12 (8/12)  | _Study for exam next week_.
 | Final | Final exam (20% of grade)
