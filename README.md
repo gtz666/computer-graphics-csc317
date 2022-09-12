@@ -1,4 +1,4 @@
-# Computer Graphics CSC317 _Winter 2021_
+# Computer Graphics CSC317 _Fall 2022_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
@@ -82,7 +82,7 @@ Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shi
 | --- | :-------------- | ---- | ----
 | 1 (12/09)   | <ul><li>Introduction</li><li>Raster Images(Chapter 3)</li><li>[Assignment 1 (Raster Images) due 19/09](https://github.com/karansher/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)</li></ul> | [introduction](https://github.com/karansher/317-lectures/blob/main/lecture0.pdf)<br>[raster](https://github.com/karansher/317-lectures/blob/main/lecture1.pdf) |
 | 2 (19/09)   | <ul><li>Ray Casting(Sections 4.1-4.4)</li><li>[Assignment 2 (Ray Casting) due 26/09](https://github.com/karansher/computer-graphics-ray-casting)</li></ul> | [raycast](https://github.com/karansher/317-lectures/blob/main/lecture2.pdf) | [raycast](https://drive.google.com/drive/folders/1I2oBpRZ4mT07M-NnOsAW_NDaD7q9-tvd?usp=sharing)
-| 3 (26/09) | <ul><li>Ray Tracing(Sections 4.5-4.9)</li><li>Quiz1</li><li>[Assignment 3 (Ray Tracing) due 03/10](https://github.com/karansher/computer-graphics-ray-tracing)</li></ul> | [raytrace](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) | 
+| 3 (26/09) | <ul><li>Ray Tracing(Sections 4.5-4.9)</li><li>Quiz1</li><li>[Assignment 3 (Ray Tracing) due 03/10](https://github.com/karansher/computer-graphics-ray-tracing)</li></ul> | [raytrace](https://github.com/karansher/317-lectures/blob/main/lecture3.pdf) | [raytrace](https://drive.google.com/drive/folders/1OKYt9zmA9Gy8O_ksis1M4bifbcbEN1vt?usp=sharing)
 | 4 (03/10) | <ul><li>Bounding Volume Hierarchy(Section 12.3)</li><li> [Assignment 4 (Bounding Volume Hierarchy) due 10/10](https://github.com/karansher/computer-graphics-bounding-volume-hierarchy)</li></ul> | [bounding-volume](https://github.com/karansher/317-lectures/blob/main/lecture4.pdf)  | 
 | 5  (17/10)  | <ul><li>Meshes(Section 12.1 & skim Chapter 11)</li><li>Quiz2 </li><li>[Assignment 5 (Meshes) due 16/02](https://github.com/karansher/computer-graphics-meshes)</li></ul> | [meshes](https://github.com/karansher/317-lectures/blob/main/lecture5.pdf) | 
 | 6  (24/10)  | <ul><li>Transformation, Projection and Shading(Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17) </li><li>[Assignment 6 (Shader Pipeline) assigned due 09/03](https://github.com/karansher/computer-graphics-shader-pipeline) </li></ul> |[transforms and shading slides](https://github.com/karansher/317-lectures/blob/main/lecture6.pdf) |
